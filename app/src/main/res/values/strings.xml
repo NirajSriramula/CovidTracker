@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ihaha!!!</string>
+    <string name="name">Name</string>
+    <string name="cases">Cases</string>
+    <string name="deaths">Deaths</string>
+    <string name="recoveries">Recoveries</string>
+    <string name="world_wide_latest_info">World Wide Latest Info</string>
+    <string name="search_for_a_specific_country">Search for a specific country</string>
+    <string name="covid_19_tracker">Covid-19 Tracker</string>
+    <string name="india_wide_latest_info">India wide latest info</string>
+</resources>
